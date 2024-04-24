@@ -2,8 +2,6 @@
 
 ## Overview
 
-This readme provides an overview of the sales data dashboard, highlighting key metrics and important details for understanding and using the dashboard effectively.
-
 ## Key Metrics
 
 ### Sales by Month
