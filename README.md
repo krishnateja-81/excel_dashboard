@@ -1,4 +1,4 @@
-# Sales Data Dashboard Readme
+# Sales Data Dashboard
 
 ## Overview
 
