@@ -1,7 +1,5 @@
 # Sales Data Dashboard
 
-## Overview
-
 ## Key Metrics
 
 ### Sales by Month
