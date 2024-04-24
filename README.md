@@ -1,5 +1,6 @@
 # Sales Data Dashboard
-
+##overview
+This Excel dashboard provides essential sales insights by month, product, salesperson, city, and category, facilitating informed decision-making with a user-friendly interface and detailed data information.
 ## Key Metrics
 
 ### Sales by Month
